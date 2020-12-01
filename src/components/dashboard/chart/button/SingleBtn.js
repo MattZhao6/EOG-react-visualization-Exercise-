@@ -98,5 +98,4 @@ const mapStatetoProps = state =>{
         },dispatch)
     
   
-  
   export default connect(mapStatetoProps,mapDispatchToProps)(SingleBtn);
